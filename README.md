@@ -57,7 +57,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mharis-kh/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:mharis.kh@outlook.com">	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+<a href="mailto:mharis.kh@outlook.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 ⭐️ From [HarisKhan137](https://github.com/HarisKhan137)
