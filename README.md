@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+
 
 <h2> Hey there! I'm Muhammad Haris Khan.</h2>
 
@@ -49,8 +49,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mharis-kh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:mharis.kh@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/mharis-kh/">LinkedIn</a>
+<a href="mailto:mharis.kh@outlook.com">Email</a>
 </p>
 
 ⭐️ From [HarisKhan137](https://github.com/HarisKhan137)
